@@ -1,11 +1,11 @@
 import React from 'react'
 
-const Cars = () => {
+const PageNotFound = () => {
   return (
     <div>
-      cars
+      
     </div>
   )
 }
 
-export default Cars
+export default PageNotFound
